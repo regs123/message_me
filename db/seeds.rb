@@ -10,3 +10,10 @@ User.create(username: "Jolly", password: "haha123")
 User.create(username: "Hayley", password: "haha123")
 User.create(username: "Hotdog", password: "haha123")
 User.create(username: "Fishball", password: "haha123")
+
+
+Message.create(body: "Body1_Body1_Body1_Body1_", user_id: "2")
+Message.create(body: "Body1_Body1_Body1_Body1_", user_id: "3")
+Message.create(body: "Body1_Body1_Body1_Body1_", user_id: "4")
+Message.create(body: "Body1_Body1_Body1_Body1_", user_id: "5")
+Message.create(body: "Body1_Body1_Body1_Body1_", user_id: "6")
