@@ -20,10 +20,12 @@ gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
+gem 'coffee-rails', '~> 4.2'
 gem 'bcrypt', '~> 3.1.13'
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
 gem 'hirb'
+gem 'listen'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
